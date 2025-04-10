@@ -38,5 +38,29 @@ const heros = ["shaktiman", "naagraj","doga"]; // Array
  
 //  https://262.ecma-international.org/5.1/#sec-11.4.3
 
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (primitive), Heap (Non-Primitive)
+
+let myYoutubeName = "Parthmehta1024"
+
+
+let AnotherName = myYoutubeName
+AnotherName = "chaiaurcode"
+
+console.log(myYoutubeName);
+console.log(AnotherName);
+
+let userOne = {
+   email: "Parth@gmail.com",
+   upi: "parth@okhdfcbank",
+}
+
+let usertwo = userOne
+
+usertwo.email = "Parth123@gmail.com",
+
+console.log(userOne.email);
+console.log(usertwo.email);
 
 
