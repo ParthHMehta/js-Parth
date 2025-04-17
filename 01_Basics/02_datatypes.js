@@ -25,7 +25,7 @@ let isLoggedIn = false
 */
 
 
-// obejct
+// object
 
 console.log(typeof undefined); //undefined 
-console.log(typeof"null"); // null is a object
+console.log(typeof null); // null is a object

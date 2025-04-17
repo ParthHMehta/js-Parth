@@ -17,14 +17,14 @@
 
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Maths   +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-// console.log(Math);
-// console.log(Math.abs(-4)); //+ stays +, - gets converted to +
-// console.log(Math.round(5.6));
-// console.log(Math.ceil(5.4));
-// console.log(Math.floor(5.6));
-// console.log(Math.sqrt(25));
-// console.log(Math.min(5,43,6,7,9,3));
-// console.log(Math.max(5,43,6,7,9,3));
+console.log("Math");
+console.log(Math.abs(-4)); //+ stays +, - gets converted to +
+console.log(Math.round(5.6));
+console.log(Math.ceil(5.4));
+console.log(Math.floor(5.6));
+console.log(Math.sqrt(25));
+console.log(Math.min(5,43,6,7,9,3));
+console.log(Math.max(5,43,6,7,9,3));
 
 console.log(Math.random());
 
