@@ -31,7 +31,7 @@ const chai = () => {
     let username = "Parth"
         console.log(this);  
     }
-    // chai()
+    chai()
     
 // ()=>{}   arrow function
 

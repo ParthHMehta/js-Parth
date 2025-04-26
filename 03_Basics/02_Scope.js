@@ -1,13 +1,13 @@
 var a = 100
 if (true) {
-    const a = 10
-    let b = 20
-    var c = 30
+    const a = 10;
+    let b = 20;
+    var c = 30;
 
     console.log("Inner:" ,a);  
 }
 console.log(a);
-console.log(b);
+// console.log(b);
 console.log(c);
 
 
@@ -35,10 +35,10 @@ if(true){
         console.log(website);
         
         }
-        console.log(website); X
+        // console.log(website); won't work
         console.log(username);
 }
-console.log(username); X
+// console.log(username); won't work
 
 
 // ++++++++++++++++++++++++++++++++++++++++++++++ intresting ++++++++++++++++++++++++++++++++++++++++++++++++++++
